@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\bin\Debug\netcoreapp3.1\ClassMetier.deps.json
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\GestionMedicament\ClassMetier\obj\Debug\netcoreapp3.1\ClassMetier.pdb

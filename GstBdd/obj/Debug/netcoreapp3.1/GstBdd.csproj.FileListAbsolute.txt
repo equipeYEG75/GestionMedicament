@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.deps.json
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\GstBdd.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.dll
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\bin\Debug\netcoreapp3.1\ClassMetier.pdb
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.dll
+C:\Users\Dell\Desktop\GestionMedicament\GstBdd\obj\Debug\netcoreapp3.1\GstBdd.pdb
